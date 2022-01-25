@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FragmentApplication</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="save">Save</string>
+    <string name="number">Number:</string>
 </resources>
